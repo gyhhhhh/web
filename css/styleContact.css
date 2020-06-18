@@ -1,0 +1,135 @@
+ol,ul{list-style:none;margin:0px;padding:0px;}
+table{border-collapse:collapse;border-spacing:0;}
+img{max-width:100%;}
+
+body{
+	padding:0;
+	margin:0;
+	background: url(../img/ban2.jpg) no-repeat center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	font-family: 'Raleway', sans-serif;
+}
+
+/*-- 标题内容 --*/
+.content {
+    padding: 2em 0 0;
+}
+.subscribe h2 {
+    text-align: center;
+    color: #f1c004;
+    font-size: 1.7em;
+    margin-bottom: 1em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content h1 {
+    color: #66ccbe;
+    font-size:3em;
+    text-align: center;
+    letter-spacing: 1px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin-bottom: 2em;
+}
+.main {
+    width: 80%;
+    margin: 0 auto;
+    
+    padding: 3.5em;
+}
+.w3-heading-top h3 {
+    color: #fff;
+	font-size: 2.5em;
+	font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+	 margin-bottom: 0.5em;
+	 letter-spacing: 2px;
+}
+.w3-heading-top p{
+    color: #fff;
+	margin-bottom: 1em;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+.w3-heading-top {
+    text-align: center;
+}
+
+.subscribe{
+	margin-top:3em;
+}
+
+.contact-form {
+    margin: 0 auto;
+    width: 58%;
+}
+.ClassyCountdown-wrapper {
+    text-align: center;
+}
+.text {
+    color: #fff;
+    margin-top: 14px;
+	letter-spacing: 2px;
+	font-weight: 600;
+}
+/*-- 表单--*/ 
+.ww {
+    width: 100%;
+    float: left;
+}
+
+.book-form {
+    width:100%;
+    padding: 2em 1em;
+	 z-index: 999;
+	 
+}
+.book-form h6 {
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 1px;
+    margin-bottom: 0.8em;
+    text-align: center;
+	color: #FFFFFF;
+    text-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	font-weight: 600;
+}
+.book-form input[type="text"], .book-form input[type="email"] {
+    outline: none;
+    font-size: 14px;
+    color: #fff;
+    padding: 11.4px 10px;
+    letter-spacing: 1px;
+    margin: 0;
+    width: 100%;
+    border: none;
+    -webkit-appearance: none;
+    background: rgba(169,169,169,.3);
+    font-family: 'Roboto Condensed', sans-serif;
+	
+}
+.book-form input[type="submit"]{
+	font-size: 15px;
+    letter-spacing: 1px;
+    color: #fff;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 11px 10px;
+    -webkit-appearance: none;
+    text-transform: capitalize;
+    transition: .5s all;
+    background:#66ccbebd;
+    display: inline-block;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.main-agileits-form {
+    margin-top: 2em;
+}
+

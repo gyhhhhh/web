@@ -1,0 +1,17 @@
+img{max-width:100%;}
+
+body{
+	padding:0;
+	margin:0;
+	background: url(../img/ban2.jpg) no-repeat center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	font-size:0.95em;
+    text-align:center;
+    padding:4px;
+}
